@@ -39,8 +39,6 @@ Nous sommes étudiants en M2 MIAGE à l'Université Toulouse III - Paul Sabatier
 Cela nous permet non seulement de mettre en pratique les compétences acquises durant notre formation, mais aussi de découvrir de nouvelles technologies et de travailler en équipe sur un sujet qui nous passionne : les jeux vidéo.
 
 ## 📹 Ressources
-Voici le lien de notre [répo privé](https://github.com/Golden-Legends/golden-legends)
-
 Voici l'ensemble de nos vidéos :
 - [100m](https://youtu.be/T_Fbgmi4p40)
 - [Natation](https://youtu.be/CUS6Bx78IPM)
