@@ -7,7 +7,7 @@ Nous sommes trois amis étudiants et participons au concours CGI Games On Web 20
 ## 🎮 Jouer
 Le jeu est hébergé sur GitHub Pages et [disponible ici](https://golden-legends.github.io/golden-legends/#/).\
 \
-![CleanShot 2024-05-30 at 21 44 57](https://github.com/gamesonweb/gow-olympic-edition-goldenlegends/assets/50367862/73d35a58-59e0-48ee-9176-056067253fc4)
+![CleanShot 2024-05-31 at 15 19 04](https://github.com/gamesonweb/gow-olympic-edition-goldenlegends/assets/50367862/405a1291-c0ba-429f-bd2d-08913104b444)
 
 
 ## 📕 Docs et blog 
