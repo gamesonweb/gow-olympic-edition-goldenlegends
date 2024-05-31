@@ -2,7 +2,8 @@
 
 ## 👋 Bienvenue
 Nous sommes trois amis étudiants et participons au concours CGI Games On Web 2024 avec notre jeu : Golden Legends.\
-Vous pouvez retrouver notre [trailer](https://youtu.be/a7HEL1H-_RU) et notre [vidéo de présentation](https://youtu.be/a7HEL1H-_RU).
+Vous pouvez retrouver notre [trailer](https://youtu.be/a7HEL1H-_RU) et notre [vidéo de présentation](https://youtu.be/a7HEL1H-_RU).\
+Tout le code source est disponible sur notre [organisation GitHub](https://github.com/Golden-Legends).
 
 
 ## 🎮 Jouer
