@@ -30,19 +30,21 @@ Réalisez des performances exceptionnelles et retrouvez votre nom sur le scorebo
 
 ## 📚 À propos de nous
 Nous sommes étudiants en M2 MIAGE à l'Université Toulouse III - Paul Sabatier : 
-- [Nicolas JACOB PERES](https://github.com/nicolasjp)
-- [Théo PESSEGUE](https://github.com/shannorr)
-- [Rémi SAUREL](https://github.com/RemiSaurel).
+- [Nicolas JACOB PERES](https://github.com/nicolasjp) : Réalisation de la carte, des personnages avec leurs animations, de certains jeux et l'intégration de GUI.
+- [Théo PESSEGUE](https://github.com/shannorr) : Initialisation et architecture du jeu, réalisation des premiers mini-jeux, amélioration des performances (instances, eventListener,...).
+- [Rémi SAUREL](https://github.com/RemiSaurel) : Architecture du jeu, réalisation du figma/GUI dans Paris et dans les mini-jeux et mise en place de la documentation en ligne.
 
 Étant en alternance dans des entreprises différentes, nous avons décidé de nous lancer dans un projet commun pour le concours CGI Games On Web 2024.\
 Cela nous permet non seulement de mettre en pratique les compétences acquises durant notre formation, mais aussi de découvrir de nouvelles technologies et de travailler en équipe sur un sujet qui nous passionne : les jeux vidéo.
 
 ## 📹 Ressources
+Voici le lien de notre [répo privé](https://github.com/Golden-Legends/golden-legends)
+
 Voici l'ensemble de nos vidéos :
-- [100m](https://youtu.be/a7HEL1H-_RU)
-- [Natation](https://youtu.be/a7HEL1H-_RU)
-- [Boxe](https://youtu.be/a7HEL1H-_RU)
-- [Plongeon](https://youtu.be/a7HEL1H-_RU)
-- [Tir à l'arc](https://youtu.be/a7HEL1H-_RU)
-- [Javelot](https://youtu.be/a7HEL1H-_RU)
-- [Tennis](https://youtu.be/a7HEL1H-_RU)
+- [100m](https://youtu.be/T_Fbgmi4p40)
+- [Natation](https://youtu.be/CUS6Bx78IPM)
+- [Boxe](https://youtu.be/d4j3HttVcE4)
+- [Plongeon](https://youtu.be/Tdp7TgrVo8I)
+- [Tir à l'arc](https://youtu.be/d7kMfUK0dEk)
+- [Javelot](https://youtu.be/mZAOfvDtpfE)
+- [Tennis](https://youtu.be/LHLuoezAYkA)
