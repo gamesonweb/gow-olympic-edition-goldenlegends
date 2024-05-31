@@ -2,7 +2,7 @@
 
 ## 👋 Bienvenue
 Nous sommes trois amis étudiants et participons au concours CGI Games On Web 2024 avec notre jeu : Golden Legends.\
-Vous pouvez retrouver notre [trailer](https://youtu.be/a7HEL1H-_RU) et notre [vidéo de présentation](https://youtu.be/a7HEL1H-_RU).\
+Vous pouvez retrouver notre [trailer](https://youtu.be/nP57QeAMpyY) et notre [vidéo de présentation](https://youtu.be/MpGgUF5aYuI).\
 Tout le code source est disponible sur notre [organisation GitHub](https://github.com/Golden-Legends).
 
 
@@ -36,7 +36,7 @@ Nous sommes étudiants en M2 MIAGE à l'Université Toulouse III - Paul Sabatier
 - [Rémi SAUREL](https://github.com/RemiSaurel) : Architecture du jeu, réalisation du figma/GUI dans Paris et dans les mini-jeux et mise en place de la documentation en ligne.
 
 Étant en alternance dans des entreprises différentes, nous avons décidé de nous lancer dans un projet commun pour le concours CGI Games On Web 2024.\
-Cela nous permet non seulement de mettre en pratique les compétences acquises durant notre formation, mais aussi de découvrir de nouvelles technologies et de travailler en équipe sur un sujet qui nous passionne : les jeux vidéo.
+Cela nous permet non seulement de mettre en pratique les compétences acquises durant notre formation, mais aussi de découvrir de nouvelles technologies et de travailler en équipe sur un sujet qui nous passionne : les jeux vidéos.
 
 ## 📹 Ressources
 Voici l'ensemble de nos vidéos :
