@@ -1,7 +1,8 @@
 ![CleanShot 2024-02-03 at 10 49 30@2x](https://github.com/Golden-Legends/golden-legends-back/assets/50367862/c8367dbe-8e97-4e44-9c80-23615743695a)
 
 ## 👋 Bienvenue
-Nous sommes trois amis étudiants et participons au concours CGI Games On Web 2024 avec notre jeu : Golden Legends.
+Nous sommes trois amis étudiants et participons au concours CGI Games On Web 2024 avec notre jeu : Golden Legends.\
+Vous pouvez retrouver notre [trailer](https://youtu.be/a7HEL1H-_RU) et notre [vidéo de présentation](https://youtu.be/a7HEL1H-_RU).
 
 
 ## 🎮 Jouer
@@ -35,3 +36,13 @@ Nous sommes étudiants en M2 MIAGE à l'Université Toulouse III - Paul Sabatier
 
 Étant en alternance dans des entreprises différentes, nous avons décidé de nous lancer dans un projet commun pour le concours CGI Games On Web 2024.\
 Cela nous permet non seulement de mettre en pratique les compétences acquises durant notre formation, mais aussi de découvrir de nouvelles technologies et de travailler en équipe sur un sujet qui nous passionne : les jeux vidéo.
+
+## 📹 Ressources
+Voici l'ensemble de nos vidéos :
+- [100m](https://youtu.be/a7HEL1H-_RU)
+- [Natation](https://youtu.be/a7HEL1H-_RU)
+- [Boxe](https://youtu.be/a7HEL1H-_RU)
+- [Plongeon](https://youtu.be/a7HEL1H-_RU)
+- [Tir à l'arc](https://youtu.be/a7HEL1H-_RU)
+- [Javelot](https://youtu.be/a7HEL1H-_RU)
+- [Tennis](https://youtu.be/a7HEL1H-_RU)
